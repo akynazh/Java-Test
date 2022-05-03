@@ -1,0 +1,13 @@
+名称_语言代码_国家代码.properties
+// 如果是默认的
+自定义名.properties
+// 例如
+my_en_US.properties
+my_zh_CN.properties
+my.properties
+
+当指定的Locale是CN的时候，
+如果my_zh_CN.properties、my.properties两个文件都存在，
+则优先会使用my_zh_CN.properties，
+当my_zh_CN.properties不存在时候，
+会使用默认的my.properties。

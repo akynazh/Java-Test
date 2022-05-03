@@ -1,0 +1,456 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Java_8:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="12032a4a-1ef9-4cf5-b65c-2fd0172b0098" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Jsp File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\technology\Java\$JavaResource\repository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../tools4/maven/apache-maven-3.8.1" />
+        <option name="userSettingsFile" value="D:\tools4\maven\apache-maven-3.8.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1syGn3rxtjfeR2AoONYbiCvvdKH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mongo&#10;mysql" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../SpringBoot-Vue-Demo" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15555556" />
+    <property name="project.structure.side.proportion" value="0.22873563" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+    <property name="two.files.diff.last.used.folder" value="$PROJECT_DIR$/src" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="cn.jzh.java.Reflect" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\technology\Java\Test\Java_9\src\com\jzh" />
+      <recent name="D:\@java\Test\Java_8\src\main\java\com\example\Java_8" />
+      <recent name="D:\@java\Test\Java_8\src\main\webapp\WEB-INF\lib" />
+      <recent name="D:\@java\Test\Java_8\src\main\resources" />
+      <recent name="D:\@java\Test\Java_8\src\main\webapp" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\technology\Java\Test\Java_6\src" />
+      <recent name="D:\technology\Java\Test\Java_3\src\com\jzh\simpletest" />
+      <recent name="D:\technology\Java\Test" />
+      <recent name="D:\technology\Java\Test\Java_6" />
+      <recent name="D:\technology\Java\Test\Java_6\src\com\file1\java" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.BufferTest.test1">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CloneTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.jzh.java.clone.CloneTest" />
+      <module name="Java_2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.jzh.java.clone.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BufferTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Java_6" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.file1.java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.file1.java" />
+      <option name="MAIN_CLASS_NAME" value="com.file1.java.BufferTest" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CloneTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Java_2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.jzh.java.clone.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cn.jzh.java.clone" />
+      <option name="MAIN_CLASS_NAME" value="cn.jzh.java.clone.CloneTest" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CloneTest.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Java_2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.jzh.java.clone.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cn.jzh.java.clone" />
+      <option name="MAIN_CLASS_NAME" value="cn.jzh.java.clone.CloneTest" />
+      <option name="METHOD_NAME" value="test2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SortTest.test3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Java_1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.jzh.java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cn.jzh.java" />
+      <option name="MAIN_CLASS_NAME" value="cn.jzh.java.SortTest" />
+      <option name="METHOD_NAME" value="test3" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Java_1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="Java_1" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Java_8" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.48" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="UPDATE_CLASSES_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="UPDATING_POLICY" value="redeploy-artifacts" />
+      <deployment>
+        <artifact name="Java_8:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="Java_8" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="fdbdb40e-e7c7-413a-a935-3b997689165a" />
+        <option name="JNDI_PORT" value="1999" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="12910" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="Java_8:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.CloneTest" />
+      <item itemvalue="JUnit.SortTest.test3" />
+      <item itemvalue="JUnit.CloneTest.test2" />
+      <item itemvalue="JUnit.CloneTest.test1" />
+      <item itemvalue="Tomcat Server.Java_8" />
+      <item itemvalue="JUnit.BufferTest.test1" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.BufferTest.test1" />
+        <item itemvalue="JUnit.CloneTest.test1" />
+        <item itemvalue="JUnit.CloneTest.test2" />
+        <item itemvalue="Application.CloneTest" />
+        <item itemvalue="JUnit.SortTest.test3" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="12032a4a-1ef9-4cf5-b65c-2fd0172b0098" name="Default Changelist" comment="" />
+      <created>1621837580419</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1621837580419</updated>
+      <workItem from="1625153612269" duration="125000" />
+      <workItem from="1625153766495" duration="854000" />
+      <workItem from="1625155841776" duration="32000" />
+      <workItem from="1625243831984" duration="2000" />
+      <workItem from="1625301029726" duration="1543000" />
+      <workItem from="1625325735463" duration="2038000" />
+      <workItem from="1625328617483" duration="2076000" />
+      <workItem from="1625362927482" duration="649000" />
+      <workItem from="1625467503519" duration="812000" />
+      <workItem from="1625468355012" duration="1076000" />
+      <workItem from="1625469453211" duration="1103000" />
+      <workItem from="1625470582585" duration="3722000" />
+      <workItem from="1625496858717" duration="2017000" />
+      <workItem from="1625626242290" duration="686000" />
+      <workItem from="1625628105760" duration="899000" />
+      <workItem from="1625707254111" duration="2111000" />
+      <workItem from="1625709402358" duration="1387000" />
+      <workItem from="1625715725974" duration="146000" />
+      <workItem from="1625971927570" duration="3611000" />
+      <workItem from="1625975829889" duration="2132000" />
+      <workItem from="1626054004159" duration="1026000" />
+      <workItem from="1626055065848" duration="17000" />
+      <workItem from="1626055124223" duration="12000" />
+      <workItem from="1626055153626" duration="8105000" />
+      <workItem from="1626145249229" duration="613000" />
+      <workItem from="1626773479792" duration="3188000" />
+      <workItem from="1626882937534" duration="133000" />
+      <workItem from="1626939553839" duration="5340000" />
+      <workItem from="1626944952930" duration="17000" />
+      <workItem from="1626967130229" duration="17000" />
+      <workItem from="1626970239479" duration="2892000" />
+      <workItem from="1626974221678" duration="530000" />
+      <workItem from="1626974768040" duration="9000" />
+      <workItem from="1627008397125" duration="5299000" />
+      <workItem from="1627044426807" duration="720000" />
+      <workItem from="1627045232398" duration="388000" />
+      <workItem from="1627045656995" duration="480000" />
+      <workItem from="1627047646435" duration="823000" />
+      <workItem from="1627048579255" duration="2473000" />
+      <workItem from="1627057337111" duration="100000" />
+      <workItem from="1627190446584" duration="54000" />
+      <workItem from="1627228004098" duration="123000" />
+      <workItem from="1627278511135" duration="255000" />
+      <workItem from="1627278819862" duration="97000" />
+      <workItem from="1627278935343" duration="5000" />
+      <workItem from="1627279909072" duration="661000" />
+      <workItem from="1627280977217" duration="3080000" />
+      <workItem from="1627296593782" duration="5724000" />
+      <workItem from="1627396168065" duration="250000" />
+      <workItem from="1627396655729" duration="3327000" />
+      <workItem from="1627441363673" duration="381000" />
+      <workItem from="1627443288674" duration="369000" />
+      <workItem from="1627740919069" duration="4502000" />
+      <workItem from="1627826282471" duration="4512000" />
+      <workItem from="1627871668609" duration="379000" />
+      <workItem from="1627875099559" duration="10383000" />
+      <workItem from="1627959824898" duration="6526000" />
+      <workItem from="1627980127436" duration="10000" />
+      <workItem from="1628049600073" duration="354000" />
+      <workItem from="1628066719268" duration="920000" />
+      <workItem from="1628087149823" duration="15000" />
+      <workItem from="1628244015686" duration="9596000" />
+      <workItem from="1628301066048" duration="6334000" />
+      <workItem from="1628394332886" duration="253000" />
+      <workItem from="1628567486277" duration="4669000" />
+      <workItem from="1628650652852" duration="640000" />
+      <workItem from="1628651309300" duration="2175000" />
+      <workItem from="1628740277006" duration="67000" />
+      <workItem from="1628950939847" duration="6113000" />
+      <workItem from="1628995159197" duration="16910000" />
+      <workItem from="1629031290977" duration="6352000" />
+      <workItem from="1629039109416" duration="1254000" />
+      <workItem from="1629040708894" duration="29000" />
+      <workItem from="1629078623809" duration="3171000" />
+      <workItem from="1629100984158" duration="95000" />
+      <workItem from="1629127666848" duration="19000" />
+      <workItem from="1629127703275" duration="699000" />
+      <workItem from="1629128505626" duration="13000" />
+      <workItem from="1629128531007" duration="106000" />
+      <workItem from="1629129337716" duration="130000" />
+      <workItem from="1629189569705" duration="40000" />
+      <workItem from="1629189707721" duration="52000" />
+      <workItem from="1629189781555" duration="497000" />
+      <workItem from="1629281469860" duration="830000" />
+      <workItem from="1629282380582" duration="1162000" />
+      <workItem from="1629386551844" duration="141000" />
+      <workItem from="1629387978497" duration="528000" />
+      <workItem from="1629540237675" duration="136000" />
+      <workItem from="1633705887797" duration="24000" />
+      <workItem from="1634387109277" duration="7000" />
+      <workItem from="1634393024116" duration="2023000" />
+      <workItem from="1635561827019" duration="44000" />
+      <workItem from="1635562778909" duration="18000" />
+      <workItem from="1638353716316" duration="240000" />
+      <workItem from="1639115173985" duration="792000" />
+      <workItem from="1640609817168" duration="118000" />
+      <workItem from="1649257365617" duration="1237000" />
+      <workItem from="1649258646086" duration="1070000" />
+      <workItem from="1649333597686" duration="1753000" />
+      <workItem from="1649341783218" duration="3443000" />
+      <workItem from="1649431357753" duration="611000" />
+      <workItem from="1650210575915" duration="15000" />
+      <workItem from="1651152004285" duration="124000" />
+      <workItem from="1651459207847" duration="205000" />
+      <workItem from="1651459435908" duration="284000" />
+      <workItem from="1651459835811" duration="6328000" />
+      <workItem from="1651545322533" duration="3219000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Java_4/src/cn/jzh/java/loadfile/Server.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Java_4/src/cn/jzh/java/socket/Server.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

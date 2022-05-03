@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Form</title>
+  <style>
+    input[type=text] {
+      width: 100%;
+      border-radius: 4px;
+      padding: 5px 5px;
+      margin: 10px 0;
+      box-sizing: border-box;
+    }
+    input[type=radio] {
+      margin: 10px 0;
+    }
+    #form {
+      border-radius: 10px;
+      background-color: lightblue;
+      padding: 20px;
+      width: 300px;
+      box-shadow: 10px 10px 5px lightgray
+    }
+    button[type=submit] {
+      width: 25%;
+      border-radius: 5px;
+      padding: 5px;
+      margin: 10px 0;
+      box-sizing: border-box;
+      background-color: lightblue;
+    }
+    button[type=submit]:hover {
+      background-color: lightgreen;
+      cursor: pointer;
+    }
+  </style>
+</head>
+<body>
+<div id='form'>
+  <form id='form1' action="http://localhost:8080/Java_8/form" method="get" onsubmit="return check()">
+    <h3>Record Information</h3>
+    <label for="uname">Your Name:</label><br/>
+    <input id="uname" type="text" name="username" placeholder="your name..." autocomplete="off"><br/>
+    <label for="pwd">Your Password:</label><br/>
+    <input id="pwd" type="text" name="password" placeholder="your password..." autocomplete="off"><br/>
+    <label for="register">Register</label>
+    <input id='register' type="radio" name="type" value="Register"><br/>
+    <label for='login'>LogIn</label>
+    <input id='login' type="radio" name="type" value="LogIn"><br/>
+    <label for="desc" id='desc-label'>Personal Description:</label><br/>
+    <textarea id='desc' name="description" placeholder="write something about yourself" rows="5" cols="35" autocomplete="off"></textarea><br/>
+    <button type="submit" id="finish">Finish</button>
+  </form>
+</div>
+<script src="https://cdn.staticfile.org/jquery/1.10.2/jquery.min.js"></script>
+<script>
+  function check() {
+    let name = document.getElementById('uname').value;
+    let pwd = document.getElementById('pwd').value;
+    let type = document.getElementsByName('type');
+    if (name == null || name == "" || pwd == null || pwd == "") {
+      alert("请填写完整~");
+      return false;
+    }
+    for (let i = 0; i < type.length; i++) {
+      if (type[i].checked) {
+        return true;
+      }
+    }
+    alert("请填写完整~");
+    return false;
+  }
+
+  $(document).ready(function(){
+    // 对象串行化
+    // $("#finish").click(function () {
+    //   alert($("#form1").serialize())
+    // })
+
+    $('#login').click(function(){
+      let checked = $(this).prop('checked');
+      if (checked) {
+        $('#desc').css('display', 'none');
+        $('#desc-label').css('display', 'none');
+      }
+    })
+
+    $('#register').click(function(){
+      $('#desc').css('display', 'block');
+      $('#desc-label').css('display', 'block');
+    })
+  })
+</script>
+</body>
+</html>

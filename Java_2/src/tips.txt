@@ -1,0 +1,8 @@
+/*
+*   记忆：上三角
+*            类内部    本包    子类    外部包
+* public      yes     yes    yes    yes
+* protected   yes     yes    yes    no
+* default     yes     yes    no     no
+* private     yes     no     no     no
+* */
