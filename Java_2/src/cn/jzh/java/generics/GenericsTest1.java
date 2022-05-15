@@ -27,7 +27,7 @@ public class GenericsTest1 {
     public void getData(List<?> data) {
         System.out.println(data.get(0));
     }
-    public <T> void getData1(List<T> data) {
+    public <B> void getData1(List<B> data) {
         System.out.println(data.get(0));
     }
 }

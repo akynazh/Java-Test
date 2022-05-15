@@ -10,7 +10,7 @@ public class ReflectTest {
         System.out.println(c1.getName()); // cn.jzh.java.Reflect.base.Person
         System.out.println(c1); // class cn.jzh.java.Reflect.base.Person
         System.out.println("---------------------");
-        Field[] fields1 = c1.getFields();
+        Field[] fields1 = c1.getFields(); // 只取public
         for (Field i : fields1) {
             System.out.println(i); // public int cn.jzh.java.Reflect.base.Person.a
         }
@@ -46,20 +46,12 @@ public class ReflectTest {
         m1.invoke(p1, 100);
         System.out.println(p1.toString()); // Person{a=100, b=2, c=3, d=4}
 
-
     }
 
 
 }
-/*
-*   记忆：上三角
-*            类内部    本包    子类    外部包
-* public      yes     yes    yes    yes
-* protected   yes     yes    yes    no
-* default     yes     yes    no     no
-* private     yes     no     no     no
-* */
-class Person{
+
+class Person {
     public int a;
     protected int b;
     int c;

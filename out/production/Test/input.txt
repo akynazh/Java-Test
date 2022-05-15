@@ -1,0 +1,15 @@
+1. 服务器端相对地址 http://192.168.0.1/webapp  输出的表示末尾不会有 /
+
+jsp, servlet中 request.getRequestDispatcher("/user/index.jsp")
+
+前面需要添加 /  可见这是字符串联合起来表示的路径 -> http://192.168.0.1/webapp  /user/index.jsp
+
+2. 客户端相对地址 http://192.168.0.1
+
+html中 action="/webapp/user/index.jsp" -> http://192.168.0.1/webapp/user/index.jsp
+
+3. Module中
+
+Test相对地址    D:/{Project}/Java_i
+
+Main相对地址    D:/{Project}/

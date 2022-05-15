@@ -1,5 +1,6 @@
 package cn.jzh.java.socket;
 
+import java.io.File;
 import java.io.IOException;
 import java.io.InputStream;
 import java.io.OutputStream;
@@ -8,7 +9,7 @@ import java.net.Socket;
 import java.nio.charset.StandardCharsets;
 
 public class Server {
-    public static void main(String[] args) {
+    public static void main(String[] args) throws IOException {
         InputStream inputStream = null;
         ServerSocket serverSocket = null;//可同时监听多个请求，每个请求开启一个线程，用一个socket进行对应操作
         OutputStream outputStream = null;
@@ -16,6 +17,9 @@ public class Server {
         try {
             serverSocket = new ServerSocket(8888);
             System.out.println("等待客户端连接......");
+
+            ProcessUtil.createChild("cn.jzh.java.socket.Client");
+
             socket = serverSocket.accept();
             inputStream = socket.getInputStream();
             byte[] bytes = new byte[1024];
