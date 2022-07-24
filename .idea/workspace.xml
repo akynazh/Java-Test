@@ -10,105 +10,79 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="12032a4a-1ef9-4cf5-b65c-2fd0172b0098" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java_3/src/com/jzh/simple/builder/BuilderTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java_3/src/com/jzh/simple/builder/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java_3/src/com/jzh/simple/classloader/ClassLoaderTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java_3/src/com/jzh/simple/finallyreturn/TryReturnTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java_3/src/com/jzh/simple/param/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java_3/src/com/jzh/simple/schedule/Test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java_3/src/com/jzh/simple/schedule/Test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java_3/src/com/jzh/simple/singleton/AnotherLonelyMan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java_3/src/com/jzh/simple/singleton/LonelyMan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java_3/src/com/jzh/simple/singleton/SingleTonTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java_3/src/com/jzh/simple/statictest/Child.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java_3/src/com/jzh/simple/statictest/Common.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java_3/src/com/jzh/simple/statictest/Father.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java_4/src/cn/jzh/java/socket/ProcessUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java_5/src/com/jzh/java/gui/WindowTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java_5/src/com/jzh/java/gui/calculator/MyCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java_5/src/com/jzh/java/gui/colorchange/AFrame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java_5/src/com/jzh/java/gui/timertest/TimerTest2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java_6/input.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java_6/jzh.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java_6/output.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java_6/src/com/jzh/java/file/RandomTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java_6/src/com/jzh/java/nio/NIOTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java_6/src/com/jzh/java/properties/PropertiesTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java_6/src/com/jzh/java/ser/jzh.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java_9/src/com/jzh/process/ProcessUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java_9/src/com/jzh/process/p1/Child.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java_9/src/com/jzh/process/p1/Father.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java_9/src/com/jzh/process/p2/Child.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java_9/src/com/jzh/process/p2/Father.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_1/src/cn/jzh/java/RegexTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_1/src/cn/jzh/java/StringTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_1/src/cn/jzh/java/TimerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_5/src/com/jzh/java/gui/timertest/TimerTest1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_10/src/com/jzh/LambdaTester.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_10/src/com/jzh/ParallelTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_1/src/cn/jzh/java/ParallelTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_10/src/com/jzh/StreamTester.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_1/src/cn/jzh/java/StreamTester.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_2/src/cn/jzh/java/generics/GenericsTest1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_2/src/cn/jzh/java/generics/GenericsTest1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_2/src/cn/jzh/java/reflect/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_2/src/cn/jzh/java/reflect/use/Dog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_2/src/cn/jzh/java/reflect/ReflectTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_2/src/cn/jzh/java/reflect/use/ReflectTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_2/src/cn/jzh/java/reflect/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_2/src/cn/jzh/java/reflect/use/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_2/src/cn/jzh/java/reflect/base/ReflectTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_2/src/cn/jzh/java/reflect/base/ReflectTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_2/src/pro.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Java_2/src/pro.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_3/src/com/jzh/simpletest/ClassLoaderTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_3/src/com/jzh/simpletest/ParamTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_3/src/com/jzh/simple/param/ParamTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_3/src/com/jzh/simpletest/test2.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_4/src/cn/jzh/java/socket/Server.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_4/src/cn/jzh/java/socket/Server.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_5/src/com/jzh/java/gui/CalculatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_5/src/com/jzh/java/gui/calculator/CalculatorTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_5/src/com/jzh/java/gui/ChangeBackgroundColor.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_5/src/com/jzh/java/gui/colorchange/ChangeBackgroundColor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_5/src/com/jzh/java/gui/SimpleFrameTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_6/Java_6.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java_6/Java_6.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_6/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Java_6/input.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_6/output.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Java_6/output.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_6/src/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Java_6/cache.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_6/src/com/file1/java/BufferTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_6/src/com/jzh/java/file/BufferTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_6/src/com/file1/java/FileTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_6/src/com/jzh/java/file/FileTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_6/src/com/file2/java/DataTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_6/src/com/jzh/java/file/DataTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_6/src/com/file2/java/FileObjectTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_6/src/com/jzh/java/ser/FileObjectTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_6/src/com/file2/java/RenameTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_6/src/com/jzh/java/ser/RenameTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_6/src/com/file2/java/jzh.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Java_3/src/com/jzh/simple/classloader/test.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_6/src/com/file3/java/BundleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_6/src/com/jzh/java/bundle/BundleTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_6/src/com/file3/java/PropertiesTest1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_6/src/com/file3/java/PropertiesTest2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_6/src/person.ser" beforeDir="false" afterPath="$PROJECT_DIR$/Java_6/person.ser" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_6/src/test1.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_1/cn/jzh/java/RegexTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_10/com/jzh/StreamTester.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_10/com/jzh/StreamTester.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_2/cn/jzh/java/generics/GenericsTest1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_2/cn/jzh/java/generics/GenericsTest1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_2/cn/jzh/java/reflect/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_2/cn/jzh/java/reflect/ReflectTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_2/cn/jzh/java/reflect/Student.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_2/cn/jzh/java/reflect/base/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_2/cn/jzh/java/reflect/base/Person.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_2/cn/jzh/java/reflect/base/ReflectTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_2/cn/jzh/java/reflect/base/ReflectTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_2/pro.properties" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_2/pro.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_6/cache.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_6/com/file1/java/BufferTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_6/com/file1/java/FileStreamTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_6/com/file1/java/FileTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_6/com/file1/java/ftest5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_6/com/file2/java/DataTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_6/com/file2/java/FileObjectTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_6/com/file2/java/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_6/com/file2/java/RenameTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_6/com/file2/java/jzh.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_6/com/file2/java/相对与绝对路径.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_6/com/file3/java/BundleTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_6/com/file3/java/PropertiesTest1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_6/com/file3/java/PropertiesTest2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_6/person.ser" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_9/com/jzh/LockTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_9/com/jzh/LockTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_9/com/jzh/MThread3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_9/com/jzh/MThread3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_9/com/jzh/ThreadTest5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_9/com/jzh/ThreadTest5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_9/com/jzh/numberThread1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_9/com/jzh/numberThread1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_9/com/jzh/numberThread2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_9/com/jzh/numberThread2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Test/com/jzh/java/Jzh.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Test/com/jzh/java/test2.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Test/test1.properties" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java_3/src/com/jzh/simple/annotationtest/IPetType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java_3/src/com/jzh/simple/annotationtest/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java_3/src/com/jzh/simple/annotationtest/Pet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java_3/src/com/jzh/simple/annotationtest/PetColor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java_3/src/com/jzh/simple/annotationtest/PetInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java_3/src/com/jzh/simple/equaltest/ColorPoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java_5/src/com/jzh/gui/layout/BorderWindow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java_5/src/com/jzh/gui/layout/CardWindow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java_5/src/com/jzh/gui/layout/FlowWindow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java_5/src/com/jzh/gui/layout/GridWindow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java_5/src/com/jzh/gui/mytable/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java_5/src/com/jzh/gui/mytable/UserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java_5/src/com/jzh/gui/mytable/UserInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java_5/src/com/jzh/gui/mytable/UserTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java_5/src/druid.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SimpleTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java_3/src/com/jzh/simple/classloader/ClassLoaderTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_3/src/com/jzh/simple/classloader/ClassLoaderTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java_3/src/com/jzh/simple/classloader/test.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Java_3/src/test.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java_5/src/com/jzh/java/gui/WindowTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java_5/src/com/jzh/java/gui/calculator/CalculatorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java_5/src/com/jzh/java/gui/calculator/MyCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_5/src/com/jzh/gui/calculator/MyCalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java_5/src/com/jzh/java/gui/colorchange/AFrame.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java_5/src/com/jzh/java/gui/colorchange/ChangeBackgroundColor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java_5/src/com/jzh/java/gui/timertest/TimerTest1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java_5/src/com/jzh/java/gui/timertest/TimerTest2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java_7/src/com/web/java/beans/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_7/src/com/web/java/beans/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java_7/src/com/web/java/dbcp/DbcpTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java_7/src/com/web/java/dbcp/JDBCUtils_DBCP.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_5/src/com/jzh/gui/mytable/DruidUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java_7/src/com/web/java/dbutil/DbUtilTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_7/src/com/web/java/dbutil/DbUtilTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java_7/src/com/web/java/druid/DruidTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_7/src/com/web/java/druid/DruidTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java_7/src/com/web/java/druid/JDBCUtils_DRUID.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_7/src/com/web/java/druid/DruidUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java_7/src/com/web/java/jdbc/CommonTest/CommonClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_7/src/com/web/java/jdbc/CommonTest/CommonClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java_7/src/com/web/java/jdbc/CommonTest/CommonQuery.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_7/src/com/web/java/jdbc/CommonTest/CommonQuery.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java_7/src/com/web/java/jdbc/CommonTest/CommonUpdate.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_7/src/com/web/java/jdbc/CommonTest/CommonUpdate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java_7/src/com/web/java/jdbc/LockTest/OptimisticLock.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java_7/src/com/web/java/jdbc/LockTest/TryToChange.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java_7/src/com/web/java/jdbc/SimpleTest/JdbcTest1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_7/src/com/web/java/jdbc/JdbcTest/JdbcTest1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java_7/src/com/web/java/jdbc/SimpleTest/JdbcTest2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java_7/src/com/web/java/jdbc/JdbcTest/JdbcTest2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java_7/src/com/web/java/jdbc/SimpleTest/JdbcTest3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java_7/src/com/web/java/jdbc/SimpleTest/JdbcTest4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java_7/src/dbcp.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java_7/src/druid.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Java_7/src/druid.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java_7/src/jdbc.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Java_7/src/jdbc.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_3/com/jzh/simple/classloader/ClassLoaderTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_3/com/jzh/simple/classloader/ClassLoaderTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_3/com/jzh/simple/classloader/test.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_3/com/jzh/simple/optional/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_3/com/jzh/simpletest/ClassLoaderTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_3/com/jzh/simpletest/ParamTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_3/com/jzh/simpletest/TryReturnTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_3/com/jzh/simpletest/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_3/com/jzh/simpletest/schedule/Test1$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_3/com/jzh/simpletest/schedule/Test1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_3/com/jzh/simpletest/schedule/Test2$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_3/com/jzh/simpletest/schedule/Test2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_3/com/jzh/simpletest/statictest/Child.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_3/com/jzh/simpletest/statictest/Common.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_3/com/jzh/simpletest/statictest/Father.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_3/com/jzh/simpletest/test.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_5/com/jzh/java/gui/WindowTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_5/com/jzh/java/gui/calculator/CalculatorTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_5/com/jzh/java/gui/calculator/MyCalculator$myMonitor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_5/com/jzh/java/gui/calculator/MyCalculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_5/com/jzh/java/gui/colorchange/AFrame$ColorAction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_5/com/jzh/java/gui/colorchange/AFrame.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_5/com/jzh/java/gui/colorchange/ChangeBackgroundColor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_5/com/jzh/java/gui/colorchange/DrawComponent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_5/com/jzh/java/gui/timertest/TimePrinter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_5/com/jzh/java/gui/timertest/TimerTest1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_5/com/jzh/java/gui/timertest/TimerTest2$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_5/com/jzh/java/gui/timertest/TimerTest2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_7/dbcp.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_7/druid.properties" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_7/druid.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java_7/jdbc.properties" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java_7/jdbc.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/关于路径的解释.txt" beforeDir="false" afterPath="$PROJECT_DIR$/关于路径的解释.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -121,7 +95,10 @@
       <list>
         <option value="JUnit5 Test Class" />
         <option value="Jsp File" />
+        <option value="Interface" />
         <option value="Class" />
+        <option value="Enum" />
+        <option value="AnnotationType" />
       </list>
     </option>
   </component>
@@ -178,10 +155,10 @@
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15555556" />
     <property name="project.structure.side.proportion" value="0.22873563" />
-    <property name="settings.editor.selected.configurable" value="Errors" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
     <property name="two.files.diff.last.used.folder" value="$PROJECT_DIR$/src" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -190,30 +167,31 @@
       <recent name="cn.jzh.java.Reflect" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\technology\Java\Test\Java_5\src" />
       <recent name="D:\technology\Java\Test\Java_9\src\com\jzh\process\tmp" />
       <recent name="D:\technology\Java\Test\Java_3\src\com\jzh\simpletest\statictest" />
       <recent name="D:\technology\Java\Test\Java_9\src\com\jzh\process" />
       <recent name="D:\technology\Java\Test\Java_6" />
-      <recent name="D:\technology\Java\Test\Java_9\src\com\jzh" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\technology\Java\Test\Java_3\src" />
       <recent name="D:\technology\Java\Test\Java_2\src" />
       <recent name="D:\technology\Java\Test\Java_2\src\cn\jzh\java\reflect\use" />
       <recent name="D:\technology\Java\Test\Java_3\src\com\jzh\simple\classloader" />
       <recent name="D:\technology\Java\Test\Java_6" />
-      <recent name="D:\technology\Java\Test\Java_6\src\com\jzh\java\ser" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
       <recent name="" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.jzh.gui.mytable" />
       <recent name="cn.jzh.java.socket" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.StreamTester.test5">
+  <component name="RunManager" selected="Application.Main">
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -225,12 +203,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReflectTest (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.jzh.java.reflect.use.ReflectTest" />
-      <module name="Java_2" />
+    <configuration name="JdbcTest1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.web.java.jdbc.JdbcTest.JdbcTest1" />
+      <module name="Java_7" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.jzh.java.reflect.use.*" />
+          <option name="PATTERN" value="com.web.java.jdbc.JdbcTest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -238,12 +216,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.jzh.simple.optional.Test" />
+    <configuration name="JdbcTest2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.web.java.jdbc.JdbcTest.JdbcTest2" />
+      <module name="Java_7" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.web.java.jdbc.JdbcTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jzh.simple.annotationtest.Main" />
       <module name="Java_3" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.jzh.simple.optional.*" />
+          <option name="PATTERN" value="com.jzh.simple.annotationtest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -251,50 +242,28 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GenericsTest1.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Java_2" />
+    <configuration name="TableTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jzh.gui.mytable.TableTest" />
+      <module name="Java_5" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.jzh.java.generics.*" />
+          <option name="PATTERN" value="com.jzh.gui.mytable.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="cn.jzh.java.generics" />
-      <option name="MAIN_CLASS_NAME" value="cn.jzh.java.generics.GenericsTest1" />
-      <option name="METHOD_NAME" value="test1" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StreamTester.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Java_1" />
+    <configuration name="UserTable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jzh.gui.mytable.UserTable" />
+      <module name="Java_5" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.jzh.java.*" />
+          <option name="PATTERN" value="com.jzh.gui.mytable.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="cn.jzh.java" />
-      <option name="MAIN_CLASS_NAME" value="cn.jzh.java.StreamTester" />
-      <option name="METHOD_NAME" value="test1" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StreamTester.test5" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Java_1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cn.jzh.java.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="cn.jzh.java" />
-      <option name="MAIN_CLASS_NAME" value="cn.jzh.java.StreamTester" />
-      <option name="METHOD_NAME" value="test5" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -403,20 +372,20 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.JdbcTest1" />
+      <item itemvalue="Application.JdbcTest2" />
+      <item itemvalue="Application.UserTable" />
+      <item itemvalue="Application.TableTest" />
       <item itemvalue="Tomcat Server.Java_8" />
-      <item itemvalue="Application.ReflectTest (1)" />
-      <item itemvalue="JUnit.GenericsTest1.test1" />
-      <item itemvalue="JUnit.StreamTester.test1" />
-      <item itemvalue="Application.Test" />
-      <item itemvalue="JUnit.StreamTester.test5" />
+      <item itemvalue="Application.Main" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.StreamTester.test5" />
-        <item itemvalue="Application.Test" />
-        <item itemvalue="JUnit.StreamTester.test1" />
-        <item itemvalue="JUnit.GenericsTest1.test1" />
-        <item itemvalue="Application.ReflectTest (1)" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.UserTable" />
+        <item itemvalue="Application.TableTest" />
+        <item itemvalue="Application.JdbcTest2" />
+        <item itemvalue="Application.JdbcTest1" />
       </list>
     </recent_temporary>
   </component>
@@ -556,7 +525,14 @@
       <workItem from="1652177003407" duration="4089000" />
       <workItem from="1652283501096" duration="1930000" />
       <workItem from="1652454025447" duration="1191000" />
-      <workItem from="1652585794518" duration="3875000" />
+      <workItem from="1652585794518" duration="4652000" />
+      <workItem from="1652705879160" duration="2048000" />
+      <workItem from="1652768188933" duration="1810000" />
+      <workItem from="1652878640531" duration="12312000" />
+      <workItem from="1652891308117" duration="80000" />
+      <workItem from="1652891406014" duration="212000" />
+      <workItem from="1652932260129" duration="1097000" />
+      <workItem from="1658656030705" duration="3137000" />
     </task>
     <servers />
   </component>
@@ -582,6 +558,11 @@
           <url>file://$PROJECT_DIR$/Java_4/src/cn/jzh/java/loadfile/Server.java</url>
           <line>16</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Java_7/src/com/web/java/dbcp/DbcpTest.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="7" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

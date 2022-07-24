@@ -6,7 +6,7 @@ Main相对地址    ~/{Project}/
 
 2. 对于Module的相对地址：
 
-@Test相对地址    ~/{Project}/Java_i
+@Test相对地址    ~/{Project}/Java_i/src/
 
 Main相对地址    ~/{Project}/
 

@@ -11,13 +11,10 @@ import java.sql.*;
 public class CommonClass {
     @Test
     public void test() {
-        String sql = "SELECT DEPTNO deptno, DNAME dname, LOC loc FROM dept WHERE DEPTNO = ?";
+        String sql = "SELECT deptno, dname, loc FROM t_dept WHERE deptno = ?";
         // 列名   类中变量名
         Dept dept = query(Dept.class, sql, 10);
         System.out.println(dept);
-        sql = "SELECT username, password FROM t_user WHERE username = ?";
-        User user = query(User.class, sql, "akynazh");
-        System.out.println(user);
     }
     // 返回多个对象 public <T> List<T> query(...)
     public <T> T query(Class<T> clazz, String sql, Object ...args) {

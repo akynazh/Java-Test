@@ -13,8 +13,8 @@ import java.sql.PreparedStatement;
 public class CommonUpdate {
     @Test
     public void test() {
-        String sql = "UPDATE emp SET sal = sal * ? WHERE deptno = ?";
-        update(sql, 1.1, 10);
+        String sql = "UPDATE t_dept SET loc = ? WHERE deptno = ?";
+        update(sql, "湖北", 10);
         System.out.println("ok");
     }
     public void update(String sql, Object ...args) {

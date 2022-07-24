@@ -9,19 +9,19 @@ public class DruidTest {
         Connection conn = null;
         PreparedStatement ps = null;
         ResultSet rs = null;
-        String sql = "SELECT ename FROM emp WHERE ename LIKE ?";
+        String sql = "SELECT loc FROM t_dept WHERE loc LIKE ?";
         try {
-            conn = JDBCUtils_DRUID.getConnection();
+            conn = DruidUtil.getConnection();
             ps = conn.prepareStatement(sql);
-            ps.setString(1, "_A%");
+            ps.setString(1, "上%");
             rs = ps.executeQuery();
             while (rs.next()) {
-                System.out.println(rs.getString("ename"));
+                System.out.println(rs.getString("loc"));
             }
         } catch (Exception e) {
             e.printStackTrace();
         } finally {
-            JDBCUtils_DRUID.close(rs, ps, conn);
+            DruidUtil.close(rs, ps, conn);
         }
     }
 }

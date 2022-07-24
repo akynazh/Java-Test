@@ -10,6 +10,11 @@ import org.junit.Test;
  */
 public class ClassLoaderTest {
     @Test
+    public void test2() {
+        System.out.println(ClassLoader.getSystemResource("test.properties"));
+        // file:/D:/technology/Java/Test/out/production/Java_3/test.properties
+    }
+    @Test
     public void test1() {
 
         // Jzh.class 即 this.getClass()
@@ -22,9 +27,5 @@ public class ClassLoaderTest {
         // jdk.internal.loader.ClassLoaders$AppClassLoader@2437c6dc
         System.out.println(ClassLoaderTest.class);
         // class com.jzh.simple.classloader.ClassLoaderTest
-
-        // 在该类所在文件路径下的一个文件
-        System.out.println(ClassLoaderTest.class.getResource("test.properties"));
-        // file:/D:/technology/Java/Test/out/production/Java_3/com/jzh/simple/classloader/test.properties
     }
 }

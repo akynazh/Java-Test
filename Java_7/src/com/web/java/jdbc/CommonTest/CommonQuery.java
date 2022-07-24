@@ -10,7 +10,7 @@ import java.sql.*;
 public class CommonQuery {
     @Test
     public void test() {
-        String sql = "SELECT DEPTNO deptno, DNAME dname, LOC loc FROM dept WHERE DEPTNO = ?";
+        String sql = "SELECT deptno, dname, loc FROM t_dept WHERE deptno = ?";
                           // 列名   类中变量名
         Dept dept = query(sql, 10);
         System.out.println(dept);
